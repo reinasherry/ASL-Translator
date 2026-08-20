@@ -1,0 +1,1 @@
+print("ASL Translator starting...")
